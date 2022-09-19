@@ -2,7 +2,7 @@
 
 CryptoBox is a simple app that allows users to stay up to date on the best cryptocurrencies on the market, watch the price trend through a very simple chart and don't miss a single variation!
 
-The app does not use any external library and is mainly composed by 4 files:
+The app is totally written in Swift(SwiftUI, does not use any external library and is mainly composed by 4 files:
 
 -ContentView where there is the main structure of our app.
 
